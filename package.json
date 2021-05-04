@@ -25,7 +25,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "css-box-model": "^1.2.0",
-    "react-beautiful-dnd-next": "11.0.5"
+    "react-beautiful-dnd-next": "github:sirensolutions/react-beautiful-dnd#siren-dnd-changes"
   },
   "peerDependencies": {
     "react": "^16.8.0"
