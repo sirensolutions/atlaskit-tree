@@ -1,6 +1,6 @@
 {
   "name": "@atlaskit/tree",
-  "version": "8.2.0",
+  "version": "8.2.0-siren-1",
   "description": "A React Component for displaying expandable and sortable tree hierarchies",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -25,7 +25,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "css-box-model": "^1.2.0",
-    "react-beautiful-dnd-next": "github:sirensolutions/react-beautiful-dnd#siren-react-beautiful-dnd-next"
+    "react-beautiful-dnd-next": "github:sirensolutions/react-beautiful-dnd#tag-11.0.5-siren-1"
   },
   "peerDependencies": {
     "react": "^16.8.0"
